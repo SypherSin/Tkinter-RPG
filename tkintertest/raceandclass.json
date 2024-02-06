@@ -1,0 +1,9 @@
+{
+    "Race": "Human",
+    "Class": "Warrior",
+    "Stats": {
+        "Strength": 12,
+        "Dexterity": 10,
+        "Constitution": 12
+    }
+}
